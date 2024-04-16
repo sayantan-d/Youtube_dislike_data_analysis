@@ -1,1 +1,2 @@
 # Youtube_dislike_data_analysis
+This project entails importing and exploring a YouTube dataset, checking data types, handling missing values, and deriving statistical summaries. Data transformation involves converting date formats and creating new features. Monthly publishing trends and unique ID counts are analyzed, alongside identifying top and bottom channels by video count. Engagement metrics like likes and dislikes are scrutinized, and correlations between views and dislikes are explored. Specifically, videos published in January are examined for insights.
